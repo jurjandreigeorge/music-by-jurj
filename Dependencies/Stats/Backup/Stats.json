@@ -1,0 +1,85 @@
+{
+    "Notes Played": {
+        "Piano": {
+            "Short": {
+                "Do 1": 0,
+                "Re": 0,
+                "Mi": 0,
+                "Fa": 0,
+                "Sol": 0,
+                "La": 0,
+                "Si": 0,
+                "Do 2": 0
+            },
+            "Long": {
+                "Do 1": 0,
+                "Re": 0,
+                "Mi": 0,
+                "Fa": 0,
+                "Sol": 0,
+                "La": 0,
+                "Si": 0,
+                "Do 2": 0
+            }
+        },
+        "Flute": {
+            "C4": 0,
+            "C5": 0,
+            "C6": 0,
+            "G4": 0,
+            "G5": 0,
+            "G6": 0
+        },
+        "Trumpet": {
+            "C4": 0,
+            "C5": 0,
+            "C6": 0,
+            "G3": 0,
+            "G4": 0,
+            "G5": 0
+        },
+        "Violin": {
+            "C4": 0,
+            "C5": 0,
+            "C6": 0,
+            "G4": 0,
+            "G5": 0,
+            "G6": 0
+        }
+    },
+    "Settings Changed": {
+        "Background Color": 0,
+        "Text Color": 0,
+        "Buttons' Color": 0,
+        "Buttons' Text Color": 0,
+        "Invalid Text Color": 0,
+        "GUI Sound": 0,
+        "Remember Settings": 0
+    },
+    "Main Menu Interactions": {
+        "Played Freely": 0,
+        "Recorded Compositions": 0,
+        "Listened Compositions": 0,
+        "Managed Compositions": 0,
+        "Entered Settings": 0,
+        "Viewed Stats": 0,
+        "Viewed More Stats": 0,
+        "Logged In": 0,
+        "Logged Out": 0,
+        "Registered": 0
+    },
+    "Accounts": {
+        "Active": 0,
+        "Deleted": 0
+    },
+    "Compositions": {
+        "Active": 0,
+        "Deleted": 0
+    },
+    "Instrument Changed": {
+        "Successfully": 0,
+        "Decided not to": 0
+    },
+    "Returned to Main Menu": 0,
+    "App Used": 0
+}

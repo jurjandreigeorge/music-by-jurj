@@ -1,0 +1,2252 @@
+{
+  "Afghanistan": {
+    "Capital": "Kabul",
+    "Continent": "Asia",
+    "Currency": "AFN",
+    "ISO2": "AF",
+    "ISO2_Continent": "AS",
+    "ISO3": "AFG",
+    "Phone": "93"
+  },
+  "Aland Islands": {
+    "Capital": "Mariehamn",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "AX",
+    "ISO2_Continent": "EU",
+    "ISO3": "ALA",
+    "Phone": "+358-18"
+  },
+  "Albania": {
+    "Capital": "Tirana",
+    "Continent": "Europe",
+    "Currency": "ALL",
+    "ISO2": "AL",
+    "ISO2_Continent": "EU",
+    "ISO3": "ALB",
+    "Phone": "355"
+  },
+  "Algeria": {
+    "Capital": "Algiers",
+    "Continent": "Africa",
+    "Currency": "DZD",
+    "ISO2": "DZ",
+    "ISO2_Continent": "AF",
+    "ISO3": "DZA",
+    "Phone": "213"
+  },
+  "American Samoa": {
+    "Capital": "Pago Pago",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "AS",
+    "ISO2_Continent": "OC",
+    "ISO3": "ASM",
+    "Phone": "+1-684"
+  },
+  "Andorra": {
+    "Capital": "Andorra la Vella",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "AD",
+    "ISO2_Continent": "EU",
+    "ISO3": "AND",
+    "Phone": "376"
+  },
+  "Angola": {
+    "Capital": "Luanda",
+    "Continent": "Africa",
+    "Currency": "AOA",
+    "ISO2": "AO",
+    "ISO2_Continent": "AF",
+    "ISO3": "AGO",
+    "Phone": "244"
+  },
+  "Anguilla": {
+    "Capital": "The Valley",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "AI",
+    "ISO2_Continent": "NA",
+    "ISO3": "AIA",
+    "Phone": "+1-264"
+  },
+  "Antarctica": {
+    "Capital": "",
+    "Continent": "Antarctica",
+    "Currency": "",
+    "ISO2": "AQ",
+    "ISO2_Continent": "AN",
+    "ISO3": "ATA",
+    "Phone": ""
+  },
+  "Antigua and Barbuda": {
+    "Capital": "St. John's",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "AG",
+    "ISO2_Continent": "NA",
+    "ISO3": "ATG",
+    "Phone": "+1-268"
+  },
+  "Argentina": {
+    "Capital": "Buenos Aires",
+    "Continent": "South America",
+    "Currency": "ARS",
+    "ISO2": "AR",
+    "ISO2_Continent": "SA",
+    "ISO3": "ARG",
+    "Phone": "54"
+  },
+  "Armenia": {
+    "Capital": "Yerevan",
+    "Continent": "Asia",
+    "Currency": "AMD",
+    "ISO2": "AM",
+    "ISO2_Continent": "AS",
+    "ISO3": "ARM",
+    "Phone": "374"
+  },
+  "Aruba": {
+    "Capital": "Oranjestad",
+    "Continent": "North America",
+    "Currency": "AWG",
+    "ISO2": "AW",
+    "ISO2_Continent": "NA",
+    "ISO3": "ABW",
+    "Phone": "297"
+  },
+  "Australia": {
+    "Capital": "Canberra",
+    "Continent": "Oceania",
+    "Currency": "AUD",
+    "ISO2": "AU",
+    "ISO2_Continent": "OC",
+    "ISO3": "AUS",
+    "Phone": "61"
+  },
+  "Austria": {
+    "Capital": "Vienna",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "AT",
+    "ISO2_Continent": "EU",
+    "ISO3": "AUT",
+    "Phone": "43"
+  },
+  "Azerbaijan": {
+    "Capital": "Baku",
+    "Continent": "Asia",
+    "Currency": "AZN",
+    "ISO2": "AZ",
+    "ISO2_Continent": "AS",
+    "ISO3": "AZE",
+    "Phone": "994"
+  },
+  "Bahamas": {
+    "Capital": "Nassau",
+    "Continent": "North America",
+    "Currency": "BSD",
+    "ISO2": "BS",
+    "ISO2_Continent": "NA",
+    "ISO3": "BHS",
+    "Phone": "+1-242"
+  },
+  "Bahrain": {
+    "Capital": "Manama",
+    "Continent": "Asia",
+    "Currency": "BHD",
+    "ISO2": "BH",
+    "ISO2_Continent": "AS",
+    "ISO3": "BHR",
+    "Phone": "973"
+  },
+  "Bangladesh": {
+    "Capital": "Dhaka",
+    "Continent": "Asia",
+    "Currency": "BDT",
+    "ISO2": "BD",
+    "ISO2_Continent": "AS",
+    "ISO3": "BGD",
+    "Phone": "880"
+  },
+  "Barbados": {
+    "Capital": "Bridgetown",
+    "Continent": "North America",
+    "Currency": "BBD",
+    "ISO2": "BB",
+    "ISO2_Continent": "NA",
+    "ISO3": "BRB",
+    "Phone": "+1-246"
+  },
+  "Belarus": {
+    "Capital": "Minsk",
+    "Continent": "Europe",
+    "Currency": "BYR",
+    "ISO2": "BY",
+    "ISO2_Continent": "EU",
+    "ISO3": "BLR",
+    "Phone": "375"
+  },
+  "Belgium": {
+    "Capital": "Brussels",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "BE",
+    "ISO2_Continent": "EU",
+    "ISO3": "BEL",
+    "Phone": "32"
+  },
+  "Belize": {
+    "Capital": "Belmopan",
+    "Continent": "North America",
+    "Currency": "BZD",
+    "ISO2": "BZ",
+    "ISO2_Continent": "NA",
+    "ISO3": "BLZ",
+    "Phone": "501"
+  },
+  "Benin": {
+    "Capital": "Porto-Novo",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "BJ",
+    "ISO2_Continent": "AF",
+    "ISO3": "BEN",
+    "Phone": "229"
+  },
+  "Bermuda": {
+    "Capital": "Hamilton",
+    "Continent": "North America",
+    "Currency": "BMD",
+    "ISO2": "BM",
+    "ISO2_Continent": "NA",
+    "ISO3": "BMU",
+    "Phone": "+1-441"
+  },
+  "Bhutan": {
+    "Capital": "Thimphu",
+    "Continent": "Asia",
+    "Currency": "BTN",
+    "ISO2": "BT",
+    "ISO2_Continent": "AS",
+    "ISO3": "BTN",
+    "Phone": "975"
+  },
+  "Bolivia": {
+    "Capital": "Sucre",
+    "Continent": "South America",
+    "Currency": "BOB",
+    "ISO2": "BO",
+    "ISO2_Continent": "SA",
+    "ISO3": "BOL",
+    "Phone": "591"
+  },
+  "Bonaire, Saint Eustatius and Saba": {
+    "Capital": "Kralendijk, Oranjestad and The Bottom",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "BQ",
+    "ISO2_Continent": "NA",
+    "ISO3": "BES",
+    "Phone": "599"
+  },
+  "Bosnia and Herzegovina": {
+    "Capital": "Sarajevo",
+    "Continent": "Europe",
+    "Currency": "BAM",
+    "ISO2": "BA",
+    "ISO2_Continent": "EU",
+    "ISO3": "BIH",
+    "Phone": "387"
+  },
+  "Botswana": {
+    "Capital": "Gaborone",
+    "Continent": "Africa",
+    "Currency": "BWP",
+    "ISO2": "BW",
+    "ISO2_Continent": "AF",
+    "ISO3": "BWA",
+    "Phone": "267"
+  },
+  "Bouvet Island": {
+    "Capital": "",
+    "Continent": "Antarctica",
+    "Currency": "NOK",
+    "ISO2": "BV",
+    "ISO2_Continent": "AN",
+    "ISO3": "BVT",
+    "Phone": ""
+  },
+  "Brazil": {
+    "Capital": "Brasilia",
+    "Continent": "South America",
+    "Currency": "BRL",
+    "ISO2": "BR",
+    "ISO2_Continent": "SA",
+    "ISO3": "BRA",
+    "Phone": "55"
+  },
+  "British Indian Ocean Territory": {
+    "Capital": "Diego Garcia",
+    "Continent": "Asia",
+    "Currency": "USD",
+    "ISO2": "IO",
+    "ISO2_Continent": "AS",
+    "ISO3": "IOT",
+    "Phone": "246"
+  },
+  "British Virgin Islands": {
+    "Capital": "Road Town",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "VG",
+    "ISO2_Continent": "NA",
+    "ISO3": "VGB",
+    "Phone": "+1-284"
+  },
+  "Brunei": {
+    "Capital": "Bandar Seri Begawan",
+    "Continent": "Asia",
+    "Currency": "BND",
+    "ISO2": "BN",
+    "ISO2_Continent": "AS",
+    "ISO3": "BRN",
+    "Phone": "673"
+  },
+  "Bulgaria": {
+    "Capital": "Sofia",
+    "Continent": "Europe",
+    "Currency": "BGN",
+    "ISO2": "BG",
+    "ISO2_Continent": "EU",
+    "ISO3": "BGR",
+    "Phone": "359"
+  },
+  "Burkina Faso": {
+    "Capital": "Ouagadougou",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "BF",
+    "ISO2_Continent": "AF",
+    "ISO3": "BFA",
+    "Phone": "226"
+  },
+  "Burundi": {
+    "Capital": "Bujumbura",
+    "Continent": "Africa",
+    "Currency": "BIF",
+    "ISO2": "BI",
+    "ISO2_Continent": "AF",
+    "ISO3": "BDI",
+    "Phone": "257"
+  },
+  "Cambodia": {
+    "Capital": "Phnom Penh",
+    "Continent": "Asia",
+    "Currency": "KHR",
+    "ISO2": "KH",
+    "ISO2_Continent": "AS",
+    "ISO3": "KHM",
+    "Phone": "855"
+  },
+  "Cameroon": {
+    "Capital": "Yaounde",
+    "Continent": "Africa",
+    "Currency": "XAF",
+    "ISO2": "CM",
+    "ISO2_Continent": "AF",
+    "ISO3": "CMR",
+    "Phone": "237"
+  },
+  "Canada": {
+    "Capital": "Ottawa",
+    "Continent": "North America",
+    "Currency": "CAD",
+    "ISO2": "CA",
+    "ISO2_Continent": "NA",
+    "ISO3": "CAN",
+    "Phone": "1"
+  },
+  "Cape Verde": {
+    "Capital": "Praia",
+    "Continent": "Africa",
+    "Currency": "CVE",
+    "ISO2": "CV",
+    "ISO2_Continent": "AF",
+    "ISO3": "CPV",
+    "Phone": "238"
+  },
+  "Cayman Islands": {
+    "Capital": "George Town",
+    "Continent": "North America",
+    "Currency": "KYD",
+    "ISO2": "KY",
+    "ISO2_Continent": "NA",
+    "ISO3": "CYM",
+    "Phone": "+1-345"
+  },
+  "Central African Republic": {
+    "Capital": "Bangui",
+    "Continent": "Africa",
+    "Currency": "XAF",
+    "ISO2": "CF",
+    "ISO2_Continent": "AF",
+    "ISO3": "CAF",
+    "Phone": "236"
+  },
+  "Chad": {
+    "Capital": "N'Djamena",
+    "Continent": "Africa",
+    "Currency": "XAF",
+    "ISO2": "TD",
+    "ISO2_Continent": "AF",
+    "ISO3": "TCD",
+    "Phone": "235"
+  },
+  "Chile": {
+    "Capital": "Santiago",
+    "Continent": "South America",
+    "Currency": "CLP",
+    "ISO2": "CL",
+    "ISO2_Continent": "SA",
+    "ISO3": "CHL",
+    "Phone": "56"
+  },
+  "China": {
+    "Capital": "Beijing",
+    "Continent": "Asia",
+    "Currency": "CNY",
+    "ISO2": "CN",
+    "ISO2_Continent": "AS",
+    "ISO3": "CHN",
+    "Phone": "86"
+  },
+  "Christmas Island": {
+    "Capital": "Flying Fish Cove",
+    "Continent": "Asia",
+    "Currency": "AUD",
+    "ISO2": "CX",
+    "ISO2_Continent": "AS",
+    "ISO3": "CXR",
+    "Phone": "61"
+  },
+  "Cocos Islands": {
+    "Capital": "West Island",
+    "Continent": "Asia",
+    "Currency": "AUD",
+    "ISO2": "CC",
+    "ISO2_Continent": "AS",
+    "ISO3": "CCK",
+    "Phone": "61"
+  },
+  "Colombia": {
+    "Capital": "Bogota",
+    "Continent": "South America",
+    "Currency": "COP",
+    "ISO2": "CO",
+    "ISO2_Continent": "SA",
+    "ISO3": "COL",
+    "Phone": "57"
+  },
+  "Comoros": {
+    "Capital": "Moroni",
+    "Continent": "Africa",
+    "Currency": "KMF",
+    "ISO2": "KM",
+    "ISO2_Continent": "AF",
+    "ISO3": "COM",
+    "Phone": "269"
+  },
+  "Cook Islands": {
+    "Capital": "Avarua",
+    "Continent": "Oceania",
+    "Currency": "NZD",
+    "ISO2": "CK",
+    "ISO2_Continent": "OC",
+    "ISO3": "COK",
+    "Phone": "682"
+  },
+  "Costa Rica": {
+    "Capital": "San Jose",
+    "Continent": "North America",
+    "Currency": "CRC",
+    "ISO2": "CR",
+    "ISO2_Continent": "NA",
+    "ISO3": "CRI",
+    "Phone": "506"
+  },
+  "Croatia": {
+    "Capital": "Zagreb",
+    "Continent": "Europe",
+    "Currency": "HRK",
+    "ISO2": "HR",
+    "ISO2_Continent": "EU",
+    "ISO3": "HRV",
+    "Phone": "385"
+  },
+  "Cuba": {
+    "Capital": "Havana",
+    "Continent": "North America",
+    "Currency": "CUP",
+    "ISO2": "CU",
+    "ISO2_Continent": "NA",
+    "ISO3": "CUB",
+    "Phone": "53"
+  },
+  "Curacao": {
+    "Capital": "Willemstad",
+    "Continent": "North America",
+    "Currency": "ANG",
+    "ISO2": "CW",
+    "ISO2_Continent": "NA",
+    "ISO3": "CUW",
+    "Phone": "599"
+  },
+  "Cyprus": {
+    "Capital": "Nicosia",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "CY",
+    "ISO2_Continent": "EU",
+    "ISO3": "CYP",
+    "Phone": "357"
+  },
+  "Czech Republic": {
+    "Capital": "Prague",
+    "Continent": "Europe",
+    "Currency": "CZK",
+    "ISO2": "CZ",
+    "ISO2_Continent": "EU",
+    "ISO3": "CZE",
+    "Phone": "420"
+  },
+  "Democratic Republic of the Congo": {
+    "Capital": "Kinshasa",
+    "Continent": "Africa",
+    "Currency": "CDF",
+    "ISO2": "CD",
+    "ISO2_Continent": "AF",
+    "ISO3": "COD",
+    "Phone": "243"
+  },
+  "Denmark": {
+    "Capital": "Copenhagen",
+    "Continent": "Europe",
+    "Currency": "DKK",
+    "ISO2": "DK",
+    "ISO2_Continent": "EU",
+    "ISO3": "DNK",
+    "Phone": "45"
+  },
+  "Djibouti": {
+    "Capital": "Djibouti",
+    "Continent": "Africa",
+    "Currency": "DJF",
+    "ISO2": "DJ",
+    "ISO2_Continent": "AF",
+    "ISO3": "DJI",
+    "Phone": "253"
+  },
+  "Dominica": {
+    "Capital": "Roseau",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "DM",
+    "ISO2_Continent": "NA",
+    "ISO3": "DMA",
+    "Phone": "+1-767"
+  },
+  "Dominican Republic": {
+    "Capital": "Santo Domingo",
+    "Continent": "North America",
+    "Currency": "DOP",
+    "ISO2": "DO",
+    "ISO2_Continent": "NA",
+    "ISO3": "DOM",
+    "Phone": "+1-809 and 1-829"
+  },
+  "East Timor": {
+    "Capital": "Dili",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "TL",
+    "ISO2_Continent": "OC",
+    "ISO3": "TLS",
+    "Phone": "670"
+  },
+  "Ecuador": {
+    "Capital": "Quito",
+    "Continent": "South America",
+    "Currency": "USD",
+    "ISO2": "EC",
+    "ISO2_Continent": "SA",
+    "ISO3": "ECU",
+    "Phone": "593"
+  },
+  "Egypt": {
+    "Capital": "Cairo",
+    "Continent": "Africa",
+    "Currency": "EGP",
+    "ISO2": "EG",
+    "ISO2_Continent": "AF",
+    "ISO3": "EGY",
+    "Phone": "20"
+  },
+  "El Salvador": {
+    "Capital": "San Salvador",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "SV",
+    "ISO2_Continent": "NA",
+    "ISO3": "SLV",
+    "Phone": "503"
+  },
+  "Equatorial Guinea": {
+    "Capital": "Malabo",
+    "Continent": "Africa",
+    "Currency": "XAF",
+    "ISO2": "GQ",
+    "ISO2_Continent": "AF",
+    "ISO3": "GNQ",
+    "Phone": "240"
+  },
+  "Eritrea": {
+    "Capital": "Asmara",
+    "Continent": "Africa",
+    "Currency": "ERN",
+    "ISO2": "ER",
+    "ISO2_Continent": "AF",
+    "ISO3": "ERI",
+    "Phone": "291"
+  },
+  "Estonia": {
+    "Capital": "Tallinn",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "EE",
+    "ISO2_Continent": "EU",
+    "ISO3": "EST",
+    "Phone": "372"
+  },
+  "Ethiopia": {
+    "Capital": "Addis Ababa",
+    "Continent": "Africa",
+    "Currency": "ETB",
+    "ISO2": "ET",
+    "ISO2_Continent": "AF",
+    "ISO3": "ETH",
+    "Phone": "251"
+  },
+  "Falkland Islands": {
+    "Capital": "Stanley",
+    "Continent": "South America",
+    "Currency": "FKP",
+    "ISO2": "FK",
+    "ISO2_Continent": "SA",
+    "ISO3": "FLK",
+    "Phone": "500"
+  },
+  "Faroe Islands": {
+    "Capital": "Torshavn",
+    "Continent": "Europe",
+    "Currency": "DKK",
+    "ISO2": "FO",
+    "ISO2_Continent": "EU",
+    "ISO3": "FRO",
+    "Phone": "298"
+  },
+  "Fiji": {
+    "Capital": "Suva",
+    "Continent": "Oceania",
+    "Currency": "FJD",
+    "ISO2": "FJ",
+    "ISO2_Continent": "OC",
+    "ISO3": "FJI",
+    "Phone": "679"
+  },
+  "Finland": {
+    "Capital": "Helsinki",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "FI",
+    "ISO2_Continent": "EU",
+    "ISO3": "FIN",
+    "Phone": "358"
+  },
+  "France": {
+    "Capital": "Paris",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "FR",
+    "ISO2_Continent": "EU",
+    "ISO3": "FRA",
+    "Phone": "33"
+  },
+  "French Guiana": {
+    "Capital": "Cayenne",
+    "Continent": "South America",
+    "Currency": "EUR",
+    "ISO2": "GF",
+    "ISO2_Continent": "SA",
+    "ISO3": "GUF",
+    "Phone": "594"
+  },
+  "French Polynesia": {
+    "Capital": "Papeete",
+    "Continent": "Oceania",
+    "Currency": "XPF",
+    "ISO2": "PF",
+    "ISO2_Continent": "OC",
+    "ISO3": "PYF",
+    "Phone": "689"
+  },
+  "French Southern Territories": {
+    "Capital": "Port-aux-Francais",
+    "Continent": "Antarctica",
+    "Currency": "EUR",
+    "ISO2": "TF",
+    "ISO2_Continent": "AN",
+    "ISO3": "ATF",
+    "Phone": ""
+  },
+  "Gabon": {
+    "Capital": "Libreville",
+    "Continent": "Africa",
+    "Currency": "XAF",
+    "ISO2": "GA",
+    "ISO2_Continent": "AF",
+    "ISO3": "GAB",
+    "Phone": "241"
+  },
+  "Gambia": {
+    "Capital": "Banjul",
+    "Continent": "Africa",
+    "Currency": "GMD",
+    "ISO2": "GM",
+    "ISO2_Continent": "AF",
+    "ISO3": "GMB",
+    "Phone": "220"
+  },
+  "Georgia": {
+    "Capital": "Tbilisi",
+    "Continent": "Asia",
+    "Currency": "GEL",
+    "ISO2": "GE",
+    "ISO2_Continent": "AS",
+    "ISO3": "GEO",
+    "Phone": "995"
+  },
+  "Germany": {
+    "Capital": "Berlin",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "DE",
+    "ISO2_Continent": "EU",
+    "ISO3": "DEU",
+    "Phone": "49"
+  },
+  "Ghana": {
+    "Capital": "Accra",
+    "Continent": "Africa",
+    "Currency": "GHS",
+    "ISO2": "GH",
+    "ISO2_Continent": "AF",
+    "ISO3": "GHA",
+    "Phone": "233"
+  },
+  "Gibraltar": {
+    "Capital": "Gibraltar",
+    "Continent": "Europe",
+    "Currency": "GIP",
+    "ISO2": "GI",
+    "ISO2_Continent": "EU",
+    "ISO3": "GIB",
+    "Phone": "350"
+  },
+  "Greece": {
+    "Capital": "Athens",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "GR",
+    "ISO2_Continent": "EU",
+    "ISO3": "GRC",
+    "Phone": "30"
+  },
+  "Greenland": {
+    "Capital": "Nuuk",
+    "Continent": "North America",
+    "Currency": "DKK",
+    "ISO2": "GL",
+    "ISO2_Continent": "NA",
+    "ISO3": "GRL",
+    "Phone": "299"
+  },
+  "Grenada": {
+    "Capital": "St. George's",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "GD",
+    "ISO2_Continent": "NA",
+    "ISO3": "GRD",
+    "Phone": "+1-473"
+  },
+  "Guadeloupe": {
+    "Capital": "Basse-Terre",
+    "Continent": "North America",
+    "Currency": "EUR",
+    "ISO2": "GP",
+    "ISO2_Continent": "NA",
+    "ISO3": "GLP",
+    "Phone": "590"
+  },
+  "Guam": {
+    "Capital": "Hagatna",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "GU",
+    "ISO2_Continent": "OC",
+    "ISO3": "GUM",
+    "Phone": "+1-671"
+  },
+  "Guatemala": {
+    "Capital": "Guatemala City",
+    "Continent": "North America",
+    "Currency": "GTQ",
+    "ISO2": "GT",
+    "ISO2_Continent": "NA",
+    "ISO3": "GTM",
+    "Phone": "502"
+  },
+  "Guernsey": {
+    "Capital": "St Peter Port",
+    "Continent": "Europe",
+    "Currency": "GBP",
+    "ISO2": "GG",
+    "ISO2_Continent": "EU",
+    "ISO3": "GGY",
+    "Phone": "+44-1481"
+  },
+  "Guinea": {
+    "Capital": "Conakry",
+    "Continent": "Africa",
+    "Currency": "GNF",
+    "ISO2": "GN",
+    "ISO2_Continent": "AF",
+    "ISO3": "GIN",
+    "Phone": "224"
+  },
+  "Guinea-Bissau": {
+    "Capital": "Bissau",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "GW",
+    "ISO2_Continent": "AF",
+    "ISO3": "GNB",
+    "Phone": "245"
+  },
+  "Guyana": {
+    "Capital": "Georgetown",
+    "Continent": "South America",
+    "Currency": "GYD",
+    "ISO2": "GY",
+    "ISO2_Continent": "SA",
+    "ISO3": "GUY",
+    "Phone": "592"
+  },
+  "Haiti": {
+    "Capital": "Port-au-Prince",
+    "Continent": "North America",
+    "Currency": "HTG",
+    "ISO2": "HT",
+    "ISO2_Continent": "NA",
+    "ISO3": "HTI",
+    "Phone": "509"
+  },
+  "Heard Island and McDonald Islands": {
+    "Capital": "",
+    "Continent": "Antarctica",
+    "Currency": "AUD",
+    "ISO2": "HM",
+    "ISO2_Continent": "AN",
+    "ISO3": "HMD",
+    "Phone": ""
+  },
+  "Honduras": {
+    "Capital": "Tegucigalpa",
+    "Continent": "North America",
+    "Currency": "HNL",
+    "ISO2": "HN",
+    "ISO2_Continent": "NA",
+    "ISO3": "HND",
+    "Phone": "504"
+  },
+  "Hong Kong": {
+    "Capital": "Hong Kong",
+    "Continent": "Asia",
+    "Currency": "HKD",
+    "ISO2": "HK",
+    "ISO2_Continent": "AS",
+    "ISO3": "HKG",
+    "Phone": "852"
+  },
+  "Hungary": {
+    "Capital": "Budapest",
+    "Continent": "Europe",
+    "Currency": "HUF",
+    "ISO2": "HU",
+    "ISO2_Continent": "EU",
+    "ISO3": "HUN",
+    "Phone": "36"
+  },
+  "Iceland": {
+    "Capital": "Reykjavik",
+    "Continent": "Europe",
+    "Currency": "ISK",
+    "ISO2": "IS",
+    "ISO2_Continent": "EU",
+    "ISO3": "ISL",
+    "Phone": "354"
+  },
+  "India": {
+    "Capital": "New Delhi",
+    "Continent": "Asia",
+    "Currency": "INR",
+    "ISO2": "IN",
+    "ISO2_Continent": "AS",
+    "ISO3": "IND",
+    "Phone": "91"
+  },
+  "Indonesia": {
+    "Capital": "Jakarta",
+    "Continent": "Asia",
+    "Currency": "IDR",
+    "ISO2": "ID",
+    "ISO2_Continent": "AS",
+    "ISO3": "IDN",
+    "Phone": "62"
+  },
+  "Iran": {
+    "Capital": "Tehran",
+    "Continent": "Asia",
+    "Currency": "IRR",
+    "ISO2": "IR",
+    "ISO2_Continent": "AS",
+    "ISO3": "IRN",
+    "Phone": "98"
+  },
+  "Iraq": {
+    "Capital": "Baghdad",
+    "Continent": "Asia",
+    "Currency": "IQD",
+    "ISO2": "IQ",
+    "ISO2_Continent": "AS",
+    "ISO3": "IRQ",
+    "Phone": "964"
+  },
+  "Ireland": {
+    "Capital": "Dublin",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "IE",
+    "ISO2_Continent": "EU",
+    "ISO3": "IRL",
+    "Phone": "353"
+  },
+  "Isle of Man": {
+    "Capital": "Douglas, Isle of Man",
+    "Continent": "Europe",
+    "Currency": "GBP",
+    "ISO2": "IM",
+    "ISO2_Continent": "EU",
+    "ISO3": "IMN",
+    "Phone": "+44-1624"
+  },
+  "Israel": {
+    "Capital": "Jerusalem",
+    "Continent": "Asia",
+    "Currency": "ILS",
+    "ISO2": "IL",
+    "ISO2_Continent": "AS",
+    "ISO3": "ISR",
+    "Phone": "972"
+  },
+  "Italy": {
+    "Capital": "Rome",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "IT",
+    "ISO2_Continent": "EU",
+    "ISO3": "ITA",
+    "Phone": "39"
+  },
+  "Ivory Coast": {
+    "Capital": "Yamoussoukro",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "CI",
+    "ISO2_Continent": "AF",
+    "ISO3": "CIV",
+    "Phone": "225"
+  },
+  "Jamaica": {
+    "Capital": "Kingston",
+    "Continent": "North America",
+    "Currency": "JMD",
+    "ISO2": "JM",
+    "ISO2_Continent": "NA",
+    "ISO3": "JAM",
+    "Phone": "+1-876"
+  },
+  "Japan": {
+    "Capital": "Tokyo",
+    "Continent": "Asia",
+    "Currency": "JPY",
+    "ISO2": "JP",
+    "ISO2_Continent": "AS",
+    "ISO3": "JPN",
+    "Phone": "81"
+  },
+  "Jersey": {
+    "Capital": "Saint Helier",
+    "Continent": "Europe",
+    "Currency": "GBP",
+    "ISO2": "JE",
+    "ISO2_Continent": "EU",
+    "ISO3": "JEY",
+    "Phone": "+44-1534"
+  },
+  "Jordan": {
+    "Capital": "Amman",
+    "Continent": "Asia",
+    "Currency": "JOD",
+    "ISO2": "JO",
+    "ISO2_Continent": "AS",
+    "ISO3": "JOR",
+    "Phone": "962"
+  },
+  "Kazakhstan": {
+    "Capital": "Astana",
+    "Continent": "Asia",
+    "Currency": "KZT",
+    "ISO2": "KZ",
+    "ISO2_Continent": "AS",
+    "ISO3": "KAZ",
+    "Phone": "7"
+  },
+  "Kenya": {
+    "Capital": "Nairobi",
+    "Continent": "Africa",
+    "Currency": "KES",
+    "ISO2": "KE",
+    "ISO2_Continent": "AF",
+    "ISO3": "KEN",
+    "Phone": "254"
+  },
+  "Kiribati": {
+    "Capital": "Tarawa",
+    "Continent": "Oceania",
+    "Currency": "AUD",
+    "ISO2": "KI",
+    "ISO2_Continent": "OC",
+    "ISO3": "KIR",
+    "Phone": "686"
+  },
+  "Kosovo": {
+    "Capital": "Pristina",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "XK",
+    "ISO2_Continent": "EU",
+    "ISO3": "XKX",
+    "Phone": ""
+  },
+  "Kuwait": {
+    "Capital": "Kuwait City",
+    "Continent": "Asia",
+    "Currency": "KWD",
+    "ISO2": "KW",
+    "ISO2_Continent": "AS",
+    "ISO3": "KWT",
+    "Phone": "965"
+  },
+  "Kyrgyzstan": {
+    "Capital": "Bishkek",
+    "Continent": "Asia",
+    "Currency": "KGS",
+    "ISO2": "KG",
+    "ISO2_Continent": "AS",
+    "ISO3": "KGZ",
+    "Phone": "996"
+  },
+  "Laos": {
+    "Capital": "Vientiane",
+    "Continent": "Asia",
+    "Currency": "LAK",
+    "ISO2": "LA",
+    "ISO2_Continent": "AS",
+    "ISO3": "LAO",
+    "Phone": "856"
+  },
+  "Latvia": {
+    "Capital": "Riga",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "LV",
+    "ISO2_Continent": "EU",
+    "ISO3": "LVA",
+    "Phone": "371"
+  },
+  "Lebanon": {
+    "Capital": "Beirut",
+    "Continent": "Asia",
+    "Currency": "LBP",
+    "ISO2": "LB",
+    "ISO2_Continent": "AS",
+    "ISO3": "LBN",
+    "Phone": "961"
+  },
+  "Lesotho": {
+    "Capital": "Maseru",
+    "Continent": "Africa",
+    "Currency": "LSL",
+    "ISO2": "LS",
+    "ISO2_Continent": "AF",
+    "ISO3": "LSO",
+    "Phone": "266"
+  },
+  "Liberia": {
+    "Capital": "Monrovia",
+    "Continent": "Africa",
+    "Currency": "LRD",
+    "ISO2": "LR",
+    "ISO2_Continent": "AF",
+    "ISO3": "LBR",
+    "Phone": "231"
+  },
+  "Libya": {
+    "Capital": "Tripolis",
+    "Continent": "Africa",
+    "Currency": "LYD",
+    "ISO2": "LY",
+    "ISO2_Continent": "AF",
+    "ISO3": "LBY",
+    "Phone": "218"
+  },
+  "Liechtenstein": {
+    "Capital": "Vaduz",
+    "Continent": "Europe",
+    "Currency": "CHF",
+    "ISO2": "LI",
+    "ISO2_Continent": "EU",
+    "ISO3": "LIE",
+    "Phone": "423"
+  },
+  "Lithuania": {
+    "Capital": "Vilnius",
+    "Continent": "Europe",
+    "Currency": "LTL",
+    "ISO2": "LT",
+    "ISO2_Continent": "EU",
+    "ISO3": "LTU",
+    "Phone": "370"
+  },
+  "Luxembourg": {
+    "Capital": "Luxembourg",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "LU",
+    "ISO2_Continent": "EU",
+    "ISO3": "LUX",
+    "Phone": "352"
+  },
+  "Macao": {
+    "Capital": "Macao",
+    "Continent": "Asia",
+    "Currency": "MOP",
+    "ISO2": "MO",
+    "ISO2_Continent": "AS",
+    "ISO3": "MAC",
+    "Phone": "853"
+  },
+  "Macedonia": {
+    "Capital": "Skopje",
+    "Continent": "Europe",
+    "Currency": "MKD",
+    "ISO2": "MK",
+    "ISO2_Continent": "EU",
+    "ISO3": "MKD",
+    "Phone": "389"
+  },
+  "Madagascar": {
+    "Capital": "Antananarivo",
+    "Continent": "Africa",
+    "Currency": "MGA",
+    "ISO2": "MG",
+    "ISO2_Continent": "AF",
+    "ISO3": "MDG",
+    "Phone": "261"
+  },
+  "Malawi": {
+    "Capital": "Lilongwe",
+    "Continent": "Africa",
+    "Currency": "MWK",
+    "ISO2": "MW",
+    "ISO2_Continent": "AF",
+    "ISO3": "MWI",
+    "Phone": "265"
+  },
+  "Malaysia": {
+    "Capital": "Kuala Lumpur",
+    "Continent": "Asia",
+    "Currency": "MYR",
+    "ISO2": "MY",
+    "ISO2_Continent": "AS",
+    "ISO3": "MYS",
+    "Phone": "60"
+  },
+  "Maldives": {
+    "Capital": "Male",
+    "Continent": "Asia",
+    "Currency": "MVR",
+    "ISO2": "MV",
+    "ISO2_Continent": "AS",
+    "ISO3": "MDV",
+    "Phone": "960"
+  },
+  "Mali": {
+    "Capital": "Bamako",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "ML",
+    "ISO2_Continent": "AF",
+    "ISO3": "MLI",
+    "Phone": "223"
+  },
+  "Malta": {
+    "Capital": "Valletta",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "MT",
+    "ISO2_Continent": "EU",
+    "ISO3": "MLT",
+    "Phone": "356"
+  },
+  "Marshall Islands": {
+    "Capital": "Majuro",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "MH",
+    "ISO2_Continent": "OC",
+    "ISO3": "MHL",
+    "Phone": "692"
+  },
+  "Martinique": {
+    "Capital": "Fort-de-France",
+    "Continent": "North America",
+    "Currency": "EUR",
+    "ISO2": "MQ",
+    "ISO2_Continent": "NA",
+    "ISO3": "MTQ",
+    "Phone": "596"
+  },
+  "Mauritania": {
+    "Capital": "Nouakchott",
+    "Continent": "Africa",
+    "Currency": "MRO",
+    "ISO2": "MR",
+    "ISO2_Continent": "AF",
+    "ISO3": "MRT",
+    "Phone": "222"
+  },
+  "Mauritius": {
+    "Capital": "Port Louis",
+    "Continent": "Africa",
+    "Currency": "MUR",
+    "ISO2": "MU",
+    "ISO2_Continent": "AF",
+    "ISO3": "MUS",
+    "Phone": "230"
+  },
+  "Mayotte": {
+    "Capital": "Mamoudzou",
+    "Continent": "Africa",
+    "Currency": "EUR",
+    "ISO2": "YT",
+    "ISO2_Continent": "AF",
+    "ISO3": "MYT",
+    "Phone": "262"
+  },
+  "Mexico": {
+    "Capital": "Mexico City",
+    "Continent": "North America",
+    "Currency": "MXN",
+    "ISO2": "MX",
+    "ISO2_Continent": "NA",
+    "ISO3": "MEX",
+    "Phone": "52"
+  },
+  "Micronesia": {
+    "Capital": "Palikir",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "FM",
+    "ISO2_Continent": "OC",
+    "ISO3": "FSM",
+    "Phone": "691"
+  },
+  "Moldova": {
+    "Capital": "Chisinau",
+    "Continent": "Europe",
+    "Currency": "MDL",
+    "ISO2": "MD",
+    "ISO2_Continent": "EU",
+    "ISO3": "MDA",
+    "Phone": "373"
+  },
+  "Monaco": {
+    "Capital": "Monaco",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "MC",
+    "ISO2_Continent": "EU",
+    "ISO3": "MCO",
+    "Phone": "377"
+  },
+  "Mongolia": {
+    "Capital": "Ulan Bator",
+    "Continent": "Asia",
+    "Currency": "MNT",
+    "ISO2": "MN",
+    "ISO2_Continent": "AS",
+    "ISO3": "MNG",
+    "Phone": "976"
+  },
+  "Montenegro": {
+    "Capital": "Podgorica",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "ME",
+    "ISO2_Continent": "EU",
+    "ISO3": "MNE",
+    "Phone": "382"
+  },
+  "Montserrat": {
+    "Capital": "Plymouth",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "MS",
+    "ISO2_Continent": "NA",
+    "ISO3": "MSR",
+    "Phone": "+1-664"
+  },
+  "Morocco": {
+    "Capital": "Rabat",
+    "Continent": "Africa",
+    "Currency": "MAD",
+    "ISO2": "MA",
+    "ISO2_Continent": "AF",
+    "ISO3": "MAR",
+    "Phone": "212"
+  },
+  "Mozambique": {
+    "Capital": "Maputo",
+    "Continent": "Africa",
+    "Currency": "MZN",
+    "ISO2": "MZ",
+    "ISO2_Continent": "AF",
+    "ISO3": "MOZ",
+    "Phone": "258"
+  },
+  "Myanmar": {
+    "Capital": "Nay Pyi Taw",
+    "Continent": "Asia",
+    "Currency": "MMK",
+    "ISO2": "MM",
+    "ISO2_Continent": "AS",
+    "ISO3": "MMR",
+    "Phone": "95"
+  },
+  "Namibia": {
+    "Capital": "Windhoek",
+    "Continent": "Africa",
+    "Currency": "NAD",
+    "ISO2": "NA",
+    "ISO2_Continent": "AF",
+    "ISO3": "NAM",
+    "Phone": "264"
+  },
+  "Nauru": {
+    "Capital": "Yaren",
+    "Continent": "Oceania",
+    "Currency": "AUD",
+    "ISO2": "NR",
+    "ISO2_Continent": "OC",
+    "ISO3": "NRU",
+    "Phone": "674"
+  },
+  "Nepal": {
+    "Capital": "Kathmandu",
+    "Continent": "Asia",
+    "Currency": "NPR",
+    "ISO2": "NP",
+    "ISO2_Continent": "AS",
+    "ISO3": "NPL",
+    "Phone": "977"
+  },
+  "Netherlands": {
+    "Capital": "Amsterdam",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "NL",
+    "ISO2_Continent": "EU",
+    "ISO3": "NLD",
+    "Phone": "31"
+  },
+  "New Caledonia": {
+    "Capital": "Noumea",
+    "Continent": "Oceania",
+    "Currency": "XPF",
+    "ISO2": "NC",
+    "ISO2_Continent": "OC",
+    "ISO3": "NCL",
+    "Phone": "687"
+  },
+  "New Zealand": {
+    "Capital": "Wellington",
+    "Continent": "Oceania",
+    "Currency": "NZD",
+    "ISO2": "NZ",
+    "ISO2_Continent": "OC",
+    "ISO3": "NZL",
+    "Phone": "64"
+  },
+  "Nicaragua": {
+    "Capital": "Managua",
+    "Continent": "North America",
+    "Currency": "NIO",
+    "ISO2": "NI",
+    "ISO2_Continent": "NA",
+    "ISO3": "NIC",
+    "Phone": "505"
+  },
+  "Niger": {
+    "Capital": "Niamey",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "NE",
+    "ISO2_Continent": "AF",
+    "ISO3": "NER",
+    "Phone": "227"
+  },
+  "Nigeria": {
+    "Capital": "Abuja",
+    "Continent": "Africa",
+    "Currency": "NGN",
+    "ISO2": "NG",
+    "ISO2_Continent": "AF",
+    "ISO3": "NGA",
+    "Phone": "234"
+  },
+  "Niue": {
+    "Capital": "Alofi",
+    "Continent": "Oceania",
+    "Currency": "NZD",
+    "ISO2": "NU",
+    "ISO2_Continent": "OC",
+    "ISO3": "NIU",
+    "Phone": "683"
+  },
+  "Norfolk Island": {
+    "Capital": "Kingston",
+    "Continent": "Oceania",
+    "Currency": "AUD",
+    "ISO2": "NF",
+    "ISO2_Continent": "OC",
+    "ISO3": "NFK",
+    "Phone": "672"
+  },
+  "North Korea": {
+    "Capital": "Pyongyang",
+    "Continent": "Asia",
+    "Currency": "KPW",
+    "ISO2": "KP",
+    "ISO2_Continent": "AS",
+    "ISO3": "PRK",
+    "Phone": "850"
+  },
+  "Northern Mariana Islands": {
+    "Capital": "Saipan",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "MP",
+    "ISO2_Continent": "OC",
+    "ISO3": "MNP",
+    "Phone": "+1-670"
+  },
+  "Norway": {
+    "Capital": "Oslo",
+    "Continent": "Europe",
+    "Currency": "NOK",
+    "ISO2": "NO",
+    "ISO2_Continent": "EU",
+    "ISO3": "NOR",
+    "Phone": "47"
+  },
+  "Oman": {
+    "Capital": "Muscat",
+    "Continent": "Asia",
+    "Currency": "OMR",
+    "ISO2": "OM",
+    "ISO2_Continent": "AS",
+    "ISO3": "OMN",
+    "Phone": "968"
+  },
+  "Pakistan": {
+    "Capital": "Islamabad",
+    "Continent": "Asia",
+    "Currency": "PKR",
+    "ISO2": "PK",
+    "ISO2_Continent": "AS",
+    "ISO3": "PAK",
+    "Phone": "92"
+  },
+  "Palau": {
+    "Capital": "Melekeok",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "PW",
+    "ISO2_Continent": "OC",
+    "ISO3": "PLW",
+    "Phone": "680"
+  },
+  "Palestinian Territory": {
+    "Capital": "East Jerusalem",
+    "Continent": "Asia",
+    "Currency": "ILS",
+    "ISO2": "PS",
+    "ISO2_Continent": "AS",
+    "ISO3": "PSE",
+    "Phone": "970"
+  },
+  "Panama": {
+    "Capital": "Panama City",
+    "Continent": "North America",
+    "Currency": "PAB",
+    "ISO2": "PA",
+    "ISO2_Continent": "NA",
+    "ISO3": "PAN",
+    "Phone": "507"
+  },
+  "Papua New Guinea": {
+    "Capital": "Port Moresby",
+    "Continent": "Oceania",
+    "Currency": "PGK",
+    "ISO2": "PG",
+    "ISO2_Continent": "OC",
+    "ISO3": "PNG",
+    "Phone": "675"
+  },
+  "Paraguay": {
+    "Capital": "Asuncion",
+    "Continent": "South America",
+    "Currency": "PYG",
+    "ISO2": "PY",
+    "ISO2_Continent": "SA",
+    "ISO3": "PRY",
+    "Phone": "595"
+  },
+  "Peru": {
+    "Capital": "Lima",
+    "Continent": "South America",
+    "Currency": "PEN",
+    "ISO2": "PE",
+    "ISO2_Continent": "SA",
+    "ISO3": "PER",
+    "Phone": "51"
+  },
+  "Philippines": {
+    "Capital": "Manila",
+    "Continent": "Asia",
+    "Currency": "PHP",
+    "ISO2": "PH",
+    "ISO2_Continent": "AS",
+    "ISO3": "PHL",
+    "Phone": "63"
+  },
+  "Pitcairn": {
+    "Capital": "Adamstown",
+    "Continent": "Oceania",
+    "Currency": "NZD",
+    "ISO2": "PN",
+    "ISO2_Continent": "OC",
+    "ISO3": "PCN",
+    "Phone": "870"
+  },
+  "Poland": {
+    "Capital": "Warsaw",
+    "Continent": "Europe",
+    "Currency": "PLN",
+    "ISO2": "PL",
+    "ISO2_Continent": "EU",
+    "ISO3": "POL",
+    "Phone": "48"
+  },
+  "Portugal": {
+    "Capital": "Lisbon",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "PT",
+    "ISO2_Continent": "EU",
+    "ISO3": "PRT",
+    "Phone": "351"
+  },
+  "Puerto Rico": {
+    "Capital": "San Juan",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "PR",
+    "ISO2_Continent": "NA",
+    "ISO3": "PRI",
+    "Phone": "+1-787 and 1-939"
+  },
+  "Qatar": {
+    "Capital": "Doha",
+    "Continent": "Asia",
+    "Currency": "QAR",
+    "ISO2": "QA",
+    "ISO2_Continent": "AS",
+    "ISO3": "QAT",
+    "Phone": "974"
+  },
+  "Republic of the Congo": {
+    "Capital": "Brazzaville",
+    "Continent": "Africa",
+    "Currency": "XAF",
+    "ISO2": "CG",
+    "ISO2_Continent": "AF",
+    "ISO3": "COG",
+    "Phone": "242"
+  },
+  "Reunion": {
+    "Capital": "Saint-Denis",
+    "Continent": "Africa",
+    "Currency": "EUR",
+    "ISO2": "RE",
+    "ISO2_Continent": "AF",
+    "ISO3": "REU",
+    "Phone": "262"
+  },
+  "Romania": {
+    "Capital": "Bucharest",
+    "Continent": "Europe",
+    "Currency": "RON",
+    "ISO2": "RO",
+    "ISO2_Continent": "EU",
+    "ISO3": "ROU",
+    "Phone": "40"
+  },
+  "Russia": {
+    "Capital": "Moscow",
+    "Continent": "Europe",
+    "Currency": "RUB",
+    "ISO2": "RU",
+    "ISO2_Continent": "EU",
+    "ISO3": "RUS",
+    "Phone": "7"
+  },
+  "Rwanda": {
+    "Capital": "Kigali",
+    "Continent": "Africa",
+    "Currency": "RWF",
+    "ISO2": "RW",
+    "ISO2_Continent": "AF",
+    "ISO3": "RWA",
+    "Phone": "250"
+  },
+  "Saint Barthelemy": {
+    "Capital": "Gustavia",
+    "Continent": "North America",
+    "Currency": "EUR",
+    "ISO2": "BL",
+    "ISO2_Continent": "NA",
+    "ISO3": "BLM",
+    "Phone": "590"
+  },
+  "Saint Helena": {
+    "Capital": "Jamestown",
+    "Continent": "Africa",
+    "Currency": "SHP",
+    "ISO2": "SH",
+    "ISO2_Continent": "AF",
+    "ISO3": "SHN",
+    "Phone": "290"
+  },
+  "Saint Kitts and Nevis": {
+    "Capital": "Basseterre",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "KN",
+    "ISO2_Continent": "NA",
+    "ISO3": "KNA",
+    "Phone": "+1-869"
+  },
+  "Saint Lucia": {
+    "Capital": "Castries",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "LC",
+    "ISO2_Continent": "NA",
+    "ISO3": "LCA",
+    "Phone": "+1-758"
+  },
+  "Saint Martin": {
+    "Capital": "Marigot",
+    "Continent": "North America",
+    "Currency": "EUR",
+    "ISO2": "MF",
+    "ISO2_Continent": "NA",
+    "ISO3": "MAF",
+    "Phone": "590"
+  },
+  "Saint Pierre and Miquelon": {
+    "Capital": "Saint-Pierre",
+    "Continent": "North America",
+    "Currency": "EUR",
+    "ISO2": "PM",
+    "ISO2_Continent": "NA",
+    "ISO3": "SPM",
+    "Phone": "508"
+  },
+  "Saint Vincent and the Grenadines": {
+    "Capital": "Kingstown",
+    "Continent": "North America",
+    "Currency": "XCD",
+    "ISO2": "VC",
+    "ISO2_Continent": "NA",
+    "ISO3": "VCT",
+    "Phone": "+1-784"
+  },
+  "Samoa": {
+    "Capital": "Apia",
+    "Continent": "Oceania",
+    "Currency": "WST",
+    "ISO2": "WS",
+    "ISO2_Continent": "OC",
+    "ISO3": "WSM",
+    "Phone": "685"
+  },
+  "San Marino": {
+    "Capital": "San Marino",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "SM",
+    "ISO2_Continent": "EU",
+    "ISO3": "SMR",
+    "Phone": "378"
+  },
+  "Sao Tome and Principe": {
+    "Capital": "Sao Tome",
+    "Continent": "Africa",
+    "Currency": "STD",
+    "ISO2": "ST",
+    "ISO2_Continent": "AF",
+    "ISO3": "STP",
+    "Phone": "239"
+  },
+  "Saudi Arabia": {
+    "Capital": "Riyadh",
+    "Continent": "Asia",
+    "Currency": "SAR",
+    "ISO2": "SA",
+    "ISO2_Continent": "AS",
+    "ISO3": "SAU",
+    "Phone": "966"
+  },
+  "Senegal": {
+    "Capital": "Dakar",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "SN",
+    "ISO2_Continent": "AF",
+    "ISO3": "SEN",
+    "Phone": "221"
+  },
+  "Serbia": {
+    "Capital": "Belgrade",
+    "Continent": "Europe",
+    "Currency": "RSD",
+    "ISO2": "RS",
+    "ISO2_Continent": "EU",
+    "ISO3": "SRB",
+    "Phone": "381"
+  },
+  "Seychelles": {
+    "Capital": "Victoria",
+    "Continent": "Africa",
+    "Currency": "SCR",
+    "ISO2": "SC",
+    "ISO2_Continent": "AF",
+    "ISO3": "SYC",
+    "Phone": "248"
+  },
+  "Sierra Leone": {
+    "Capital": "Freetown",
+    "Continent": "Africa",
+    "Currency": "SLL",
+    "ISO2": "SL",
+    "ISO2_Continent": "AF",
+    "ISO3": "SLE",
+    "Phone": "232"
+  },
+  "Singapore": {
+    "Capital": "Singapur",
+    "Continent": "Asia",
+    "Currency": "SGD",
+    "ISO2": "SG",
+    "ISO2_Continent": "AS",
+    "ISO3": "SGP",
+    "Phone": "65"
+  },
+  "Sint Maarten": {
+    "Capital": "Philipsburg",
+    "Continent": "North America",
+    "Currency": "ANG",
+    "ISO2": "SX",
+    "ISO2_Continent": "NA",
+    "ISO3": "SXM",
+    "Phone": "599"
+  },
+  "Slovakia": {
+    "Capital": "Bratislava",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "SK",
+    "ISO2_Continent": "EU",
+    "ISO3": "SVK",
+    "Phone": "421"
+  },
+  "Slovenia": {
+    "Capital": "Ljubljana",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "SI",
+    "ISO2_Continent": "EU",
+    "ISO3": "SVN",
+    "Phone": "386"
+  },
+  "Solomon Islands": {
+    "Capital": "Honiara",
+    "Continent": "Oceania",
+    "Currency": "SBD",
+    "ISO2": "SB",
+    "ISO2_Continent": "OC",
+    "ISO3": "SLB",
+    "Phone": "677"
+  },
+  "Somalia": {
+    "Capital": "Mogadishu",
+    "Continent": "Africa",
+    "Currency": "SOS",
+    "ISO2": "SO",
+    "ISO2_Continent": "AF",
+    "ISO3": "SOM",
+    "Phone": "252"
+  },
+  "South Africa": {
+    "Capital": "Pretoria",
+    "Continent": "Africa",
+    "Currency": "ZAR",
+    "ISO2": "ZA",
+    "ISO2_Continent": "AF",
+    "ISO3": "ZAF",
+    "Phone": "27"
+  },
+  "South Georgia and the South Sandwich Islands": {
+    "Capital": "Grytviken",
+    "Continent": "Antarctica",
+    "Currency": "GBP",
+    "ISO2": "GS",
+    "ISO2_Continent": "AN",
+    "ISO3": "SGS",
+    "Phone": ""
+  },
+  "South Korea": {
+    "Capital": "Seoul",
+    "Continent": "Asia",
+    "Currency": "KRW",
+    "ISO2": "KR",
+    "ISO2_Continent": "AS",
+    "ISO3": "KOR",
+    "Phone": "82"
+  },
+  "South Sudan": {
+    "Capital": "Juba",
+    "Continent": "Africa",
+    "Currency": "SSP",
+    "ISO2": "SS",
+    "ISO2_Continent": "AF",
+    "ISO3": "SSD",
+    "Phone": "211"
+  },
+  "Spain": {
+    "Capital": "Madrid",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "ES",
+    "ISO2_Continent": "EU",
+    "ISO3": "ESP",
+    "Phone": "34"
+  },
+  "Sri Lanka": {
+    "Capital": "Colombo",
+    "Continent": "Asia",
+    "Currency": "LKR",
+    "ISO2": "LK",
+    "ISO2_Continent": "AS",
+    "ISO3": "LKA",
+    "Phone": "94"
+  },
+  "Sudan": {
+    "Capital": "Khartoum",
+    "Continent": "Africa",
+    "Currency": "SDG",
+    "ISO2": "SD",
+    "ISO2_Continent": "AF",
+    "ISO3": "SDN",
+    "Phone": "249"
+  },
+  "Suriname": {
+    "Capital": "Paramaribo",
+    "Continent": "South America",
+    "Currency": "SRD",
+    "ISO2": "SR",
+    "ISO2_Continent": "SA",
+    "ISO3": "SUR",
+    "Phone": "597"
+  },
+  "Svalbard and Jan Mayen": {
+    "Capital": "Longyearbyen",
+    "Continent": "Europe",
+    "Currency": "NOK",
+    "ISO2": "SJ",
+    "ISO2_Continent": "EU",
+    "ISO3": "SJM",
+    "Phone": "47"
+  },
+  "Swaziland": {
+    "Capital": "Mbabane",
+    "Continent": "Africa",
+    "Currency": "SZL",
+    "ISO2": "SZ",
+    "ISO2_Continent": "AF",
+    "ISO3": "SWZ",
+    "Phone": "268"
+  },
+  "Sweden": {
+    "Capital": "Stockholm",
+    "Continent": "Europe",
+    "Currency": "SEK",
+    "ISO2": "SE",
+    "ISO2_Continent": "EU",
+    "ISO3": "SWE",
+    "Phone": "46"
+  },
+  "Switzerland": {
+    "Capital": "Berne",
+    "Continent": "Europe",
+    "Currency": "CHF",
+    "ISO2": "CH",
+    "ISO2_Continent": "EU",
+    "ISO3": "CHE",
+    "Phone": "41"
+  },
+  "Syria": {
+    "Capital": "Damascus",
+    "Continent": "Asia",
+    "Currency": "SYP",
+    "ISO2": "SY",
+    "ISO2_Continent": "AS",
+    "ISO3": "SYR",
+    "Phone": "963"
+  },
+  "Taiwan": {
+    "Capital": "Taipei",
+    "Continent": "Asia",
+    "Currency": "TWD",
+    "ISO2": "TW",
+    "ISO2_Continent": "AS",
+    "ISO3": "TWN",
+    "Phone": "886"
+  },
+  "Tajikistan": {
+    "Capital": "Dushanbe",
+    "Continent": "Asia",
+    "Currency": "TJS",
+    "ISO2": "TJ",
+    "ISO2_Continent": "AS",
+    "ISO3": "TJK",
+    "Phone": "992"
+  },
+  "Tanzania": {
+    "Capital": "Dodoma",
+    "Continent": "Africa",
+    "Currency": "TZS",
+    "ISO2": "TZ",
+    "ISO2_Continent": "AF",
+    "ISO3": "TZA",
+    "Phone": "255"
+  },
+  "Thailand": {
+    "Capital": "Bangkok",
+    "Continent": "Asia",
+    "Currency": "THB",
+    "ISO2": "TH",
+    "ISO2_Continent": "AS",
+    "ISO3": "THA",
+    "Phone": "66"
+  },
+  "Togo": {
+    "Capital": "Lome",
+    "Continent": "Africa",
+    "Currency": "XOF",
+    "ISO2": "TG",
+    "ISO2_Continent": "AF",
+    "ISO3": "TGO",
+    "Phone": "228"
+  },
+  "Tokelau": {
+    "Capital": "",
+    "Continent": "Oceania",
+    "Currency": "NZD",
+    "ISO2": "TK",
+    "ISO2_Continent": "OC",
+    "ISO3": "TKL",
+    "Phone": "690"
+  },
+  "Tonga": {
+    "Capital": "Nuku'alofa",
+    "Continent": "Oceania",
+    "Currency": "TOP",
+    "ISO2": "TO",
+    "ISO2_Continent": "OC",
+    "ISO3": "TON",
+    "Phone": "676"
+  },
+  "Trinidad and Tobago": {
+    "Capital": "Port of Spain",
+    "Continent": "North America",
+    "Currency": "TTD",
+    "ISO2": "TT",
+    "ISO2_Continent": "NA",
+    "ISO3": "TTO",
+    "Phone": "+1-868"
+  },
+  "Tunisia": {
+    "Capital": "Tunis",
+    "Continent": "Africa",
+    "Currency": "TND",
+    "ISO2": "TN",
+    "ISO2_Continent": "AF",
+    "ISO3": "TUN",
+    "Phone": "216"
+  },
+  "Turkey": {
+    "Capital": "Ankara",
+    "Continent": "Asia",
+    "Currency": "TRY",
+    "ISO2": "TR",
+    "ISO2_Continent": "AS",
+    "ISO3": "TUR",
+    "Phone": "90"
+  },
+  "Turkmenistan": {
+    "Capital": "Ashgabat",
+    "Continent": "Asia",
+    "Currency": "TMT",
+    "ISO2": "TM",
+    "ISO2_Continent": "AS",
+    "ISO3": "TKM",
+    "Phone": "993"
+  },
+  "Turks and Caicos Islands": {
+    "Capital": "Cockburn Town",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "TC",
+    "ISO2_Continent": "NA",
+    "ISO3": "TCA",
+    "Phone": "+1-649"
+  },
+  "Tuvalu": {
+    "Capital": "Funafuti",
+    "Continent": "Oceania",
+    "Currency": "AUD",
+    "ISO2": "TV",
+    "ISO2_Continent": "OC",
+    "ISO3": "TUV",
+    "Phone": "688"
+  },
+  "U.S. Virgin Islands": {
+    "Capital": "Charlotte Amalie",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "VI",
+    "ISO2_Continent": "NA",
+    "ISO3": "VIR",
+    "Phone": "+1-340"
+  },
+  "Uganda": {
+    "Capital": "Kampala",
+    "Continent": "Africa",
+    "Currency": "UGX",
+    "ISO2": "UG",
+    "ISO2_Continent": "AF",
+    "ISO3": "UGA",
+    "Phone": "256"
+  },
+  "Ukraine": {
+    "Capital": "Kiev",
+    "Continent": "Europe",
+    "Currency": "UAH",
+    "ISO2": "UA",
+    "ISO2_Continent": "EU",
+    "ISO3": "UKR",
+    "Phone": "380"
+  },
+  "United Arab Emirates": {
+    "Capital": "Abu Dhabi",
+    "Continent": "Asia",
+    "Currency": "AED",
+    "ISO2": "AE",
+    "ISO2_Continent": "AS",
+    "ISO3": "ARE",
+    "Phone": "971"
+  },
+  "United Kingdom": {
+    "Capital": "London",
+    "Continent": "Europe",
+    "Currency": "GBP",
+    "ISO2": "GB",
+    "ISO2_Continent": "EU",
+    "ISO3": "GBR",
+    "Phone": "44"
+  },
+  "United States": {
+    "Capital": "Washington",
+    "Continent": "North America",
+    "Currency": "USD",
+    "ISO2": "US",
+    "ISO2_Continent": "NA",
+    "ISO3": "USA",
+    "Phone": "1"
+  },
+  "United States Minor Outlying Islands": {
+    "Capital": "",
+    "Continent": "Oceania",
+    "Currency": "USD",
+    "ISO2": "UM",
+    "ISO2_Continent": "OC",
+    "ISO3": "UMI",
+    "Phone": "1"
+  },
+  "Uruguay": {
+    "Capital": "Montevideo",
+    "Continent": "South America",
+    "Currency": "UYU",
+    "ISO2": "UY",
+    "ISO2_Continent": "SA",
+    "ISO3": "URY",
+    "Phone": "598"
+  },
+  "Uzbekistan": {
+    "Capital": "Tashkent",
+    "Continent": "Asia",
+    "Currency": "UZS",
+    "ISO2": "UZ",
+    "ISO2_Continent": "AS",
+    "ISO3": "UZB",
+    "Phone": "998"
+  },
+  "Vanuatu": {
+    "Capital": "Port Vila",
+    "Continent": "Oceania",
+    "Currency": "VUV",
+    "ISO2": "VU",
+    "ISO2_Continent": "OC",
+    "ISO3": "VUT",
+    "Phone": "678"
+  },
+  "Vatican": {
+    "Capital": "Vatican City",
+    "Continent": "Europe",
+    "Currency": "EUR",
+    "ISO2": "VA",
+    "ISO2_Continent": "EU",
+    "ISO3": "VAT",
+    "Phone": "379"
+  },
+  "Venezuela": {
+    "Capital": "Caracas",
+    "Continent": "South America",
+    "Currency": "VEF",
+    "ISO2": "VE",
+    "ISO2_Continent": "SA",
+    "ISO3": "VEN",
+    "Phone": "58"
+  },
+  "Vietnam": {
+    "Capital": "Hanoi",
+    "Continent": "Asia",
+    "Currency": "VND",
+    "ISO2": "VN",
+    "ISO2_Continent": "AS",
+    "ISO3": "VNM",
+    "Phone": "84"
+  },
+  "Wallis and Futuna": {
+    "Capital": "Mata Utu",
+    "Continent": "Oceania",
+    "Currency": "XPF",
+    "ISO2": "WF",
+    "ISO2_Continent": "OC",
+    "ISO3": "WLF",
+    "Phone": "681"
+  },
+  "Western Sahara": {
+    "Capital": "El-Aaiun",
+    "Continent": "Africa",
+    "Currency": "MAD",
+    "ISO2": "EH",
+    "ISO2_Continent": "AF",
+    "ISO3": "ESH",
+    "Phone": "212"
+  },
+  "Yemen": {
+    "Capital": "Sanaa",
+    "Continent": "Asia",
+    "Currency": "YER",
+    "ISO2": "YE",
+    "ISO2_Continent": "AS",
+    "ISO3": "YEM",
+    "Phone": "967"
+  },
+  "Zambia": {
+    "Capital": "Lusaka",
+    "Continent": "Africa",
+    "Currency": "ZMK",
+    "ISO2": "ZM",
+    "ISO2_Continent": "AF",
+    "ISO3": "ZMB",
+    "Phone": "260"
+  },
+  "Zimbabwe": {
+    "Capital": "Harare",
+    "Continent": "Africa",
+    "Currency": "ZWL",
+    "ISO2": "ZW",
+    "ISO2_Continent": "AF",
+    "ISO3": "ZWE",
+    "Phone": "263"
+  }
+}
